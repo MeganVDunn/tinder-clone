@@ -3,7 +3,7 @@ import './Header.css';
 import PersonIcon from '@mui/icons-material/Person';
 import IconButton from '@mui/material/IconButton';
 import ForumIcon from '@mui/icons-material/Forum';
-import { Icon } from '@mui/material';
+
 
 function Header() {
   return (
